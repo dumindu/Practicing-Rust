@@ -1,0 +1,15 @@
+{
+    "plugins": [ "theme-api" ],
+    "pluginsConfig": {
+        "theme-api": {
+            "theme": "dark",
+            "languages": [
+                {
+                    "lang": "rs",
+                    "name": "Rust",
+                    "default": true
+                }
+            ]
+        }
+    }
+}

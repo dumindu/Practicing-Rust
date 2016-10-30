@@ -1,0 +1,22 @@
+.markdown-section h3 {
+  margin-top: 2.35em;
+  margin-bottom: 0;
+}
+.api-method {
+  margin: 0px -30px;
+}
+.api-method .api-method-code {
+  border: none;
+}
+.book.two-columns .api-method .api-method-code {
+  border-left: none;
+  border-right: 1px solid #F1EFEF;
+  margin-bottom: 30px;
+}
+.book.color-theme-3 .book-body section .api-method-code {
+  background-color: transparent;
+}
+.book.two-columns .api-method .api-method-definition {
+  float: right;
+  padding: 30px 30px 15px;
+}
